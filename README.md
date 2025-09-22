@@ -26,7 +26,7 @@ https://data.gov.tw/dataset/160055
 
 This checklist is for Ad Guard Home format, please add this link to AdGuard > DNS blocklists
 ```
-https://raw.githubusercontent.com/Kevchia/165site/refs/heads/main/blocklist
+https://raw.githubusercontent.com/Kevchia/blocklist_scamsite/refs/heads/main/blocklist_scamsite
 ```
 
 ## Custom List
@@ -68,7 +68,7 @@ https://data.gov.tw/dataset/160055
 
 本清單適用於Ad Guard Home格式，請將此連結新增到 AdGuard > DNS blocklists
 ```
-https://raw.githubusercontent.com/Kevchia/165site/refs/heads/main/blocklist
+https://raw.githubusercontent.com/Kevchia/blocklist_scamsite/refs/heads/main/blocklist_scamsite
 ```
 
 ## 自定義清單
